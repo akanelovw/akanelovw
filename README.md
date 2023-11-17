@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47tlhmgtm5lnsrghcqgftfr3mat9xa0u09xa10ob5d&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
+  <img src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47tlhmgtm5lnsrghcqgftfr3mat9xa0u09xa10ob5d&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600"/>
 </div>
 <div id="badges">
   <a href="https://t.me/akanelovw">
