@@ -7,6 +7,8 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
+  <h1>About Me
+  </h1>
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akanelovw&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
