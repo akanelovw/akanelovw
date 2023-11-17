@@ -16,8 +16,10 @@ I have always been interested in solving complex problems and learning new thing
 At the moment I am mastering Flask, studying algorithms, and want to study asynchronous programming. 
 I also have an interest in game development. In the future, I plan to learn C# to develop games in Unity.
 Currently i am developing a web service for sharing short clips from games.
+
 ---
 ### Languages and Tools :
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
