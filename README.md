@@ -10,8 +10,13 @@
   <h1>About Me
   </h1>
 </div>
-I have always been interested in solving complex problems and learning new things. At the moment I am mastering Flask, studying algorithms, and want to study asynchronous programming. I also have an interest in game development. In the future, I plan to learn C# to develop games in Unity.
+
+Hello, my name is Nikita. I'm a Software Engineer from Novosibirsk.
+I have always been interested in solving complex problems and learning new things. 
+At the moment I am mastering Flask, studying algorithms, and want to study asynchronous programming. 
+I also have an interest in game development. In the future, I plan to learn C# to develop games in Unity.
 Currently i am developing web service for sharing short clips from games.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akanelovw&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=akanelovw&show_icons=true&count_private=true&theme=dark)  
