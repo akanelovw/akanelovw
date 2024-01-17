@@ -12,7 +12,7 @@ At the moment I am mastering Flask, studying algorithms, and want to study async
 I also have an interest in game development. In the future, I plan to learn C# to develop games in Unity.
 Currently i am developing a web service for sharing short clips from games.
 
-- How to reach me: [![Telegram Badge](https://img.shields.io/badge/-akanelovw-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/akanelovw)
+- How to reach me: [![Telegram Badge](https://img.shields.io/badge/-akanelovw-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/akanelovw) E-mail: krul1wtd@yandex.ru
 
 
 ---
