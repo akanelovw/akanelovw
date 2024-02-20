@@ -8,8 +8,8 @@
 
 Hello, my name is Nikita. I'm a Software Engineer from Novosibirsk.
 I have always been interested in solving complex problems and learning new things. 
-At the moment I am mastering Flask, studying algorithms, and want to study asynchronous programming. 
-I also have an interest in game development. In the future, I plan to learn C# to develop games in Unity.
+At the moment I am mastering Django, studying algorithms, and want to study asynchronous programming. 
+I also have an interest in game development. In the future, I plan to learn JS and React.
 Currently i am developing a web service for sharing short clips from games.
 
 - How to reach me: [![Telegram Badge](https://img.shields.io/badge/-akanelovw-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/akanelovw) E-mail: krul1wtd@yandex.ru
