@@ -6,7 +6,7 @@
   </h1>
 </div>
 
-Hello, my name is Nikita. I'm a Software Engineer from Novosibirsk.
+Hello, my name is Nikita. I'm a Software Engineer from Moscow.
 I have always been interested in solving complex problems and learning new things. 
 At the moment I am mastering Django, studying algorithms, and want to study asynchronous programming. 
 I also have an interest in game development. In the future, I plan to learn JS and React.
