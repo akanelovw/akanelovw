@@ -1,38 +1,13 @@
 <div id="header" align="center">
-  <h1>Hello World
+  <h1>Hello
   </h1>
   <img src="https://i.pinimg.com/736x/56/c5/78/56c578849441299159528873d977955b.jpg" width="600"/>
   <h1>About Me
   </h1>
 </div>
 
-Hello, my name is Nikita. I'm a Web Developer from Moscow.
+Hello, my name is Nikita.
+C# / Python backend developer
+ASP.NET Core - Django
 
 - How to reach me: [![Telegram Badge](https://img.shields.io/badge/-akanelovw-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/agoraphobiccc) E-mail: krul1wtd@yandex.ru
-
-
----
-### Languages and Tools :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite"  alt="SQLite" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-</div>
-
-
----
-
-### My Stats :
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=akanelovw&theme=dark)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=akanelovw&show_icons=true&count_private=true&theme=dark)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akanelovw&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
