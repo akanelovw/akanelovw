@@ -4,7 +4,7 @@ Hello, my name is Nikita.
 
 C# / Python backend developer
 
-ASP.NET Core  Django
+ASP.NET Core / Django
 
 ## How to reach me: 
 Telegram: https://t.me/agoraphobiccc
