@@ -1,14 +1,14 @@
 <div id="header" align="center">
   <h1>Hello World
   </h1>
-  <img src="https://media2.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif?cid=ecf05e47em3ih2dam2hk3c3lgaw7r074pyjxzcx6fp8d6rd7&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="600"/>
+  <img src="https://i.pinimg.com/736x/56/c5/78/56c578849441299159528873d977955b.jpg" width="600"/>
   <h1>About Me
   </h1>
 </div>
 
 Hello, my name is Nikita. I'm a Web Developer from Moscow.
 
-- How to reach me: [![Telegram Badge](https://img.shields.io/badge/-akanelovw-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/akanelovw) E-mail: krul1wtd@yandex.ru
+- How to reach me: [![Telegram Badge](https://img.shields.io/badge/-akanelovw-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/agoraphobiccc) E-mail: krul1wtd@yandex.ru
 
 
 ---
